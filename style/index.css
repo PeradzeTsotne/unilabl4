@@ -1,0 +1,117 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    padding: 2%;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.backg {
+    background-color: #56836F;
+    width: 100%;
+    height: 100%;
+    padding: 2%;
+    border: 3px solid #006837;
+}
+
+.logo {
+    float: right;
+    margin-right: 56px;
+    margin-top: 30px;
+    width: 201px;
+    height: 151px;
+}
+
+.Navbar {
+    margin-left: 178px;
+}
+
+.navbar-list a {
+    float: left;
+    margin: 43px;
+    font-family: 'MyriadProRegular';
+    src: url('fonts/MyriadProRegular.eot');
+    src: url('fonts/MyriadProRegular.eot') format('embedded-opentype'),
+        url('fonts/MyriadProRegular.woff2') format('woff2'),
+        url('fonts/MyriadProRegular.woff') format('woff'),
+        url('fonts/MyriadProRegular.ttf') format('truetype'),
+        url('fonts/MyriadProRegular.svg#MyriadProRegular') format('svg');
+    color: white;
+    font-size: 30px;
+
+
+}
+
+/* ======================== */
+.container {
+
+    width: 100%;
+    height: 65%;
+    margin-top: 200px;
+    margin-left: 18px;
+}
+
+.sect1 {
+    background-color: #FCEE21;
+    width: 617px;
+    height: 356px;
+    padding: 2%;
+}
+
+.sect2 {
+    background-color: #FCEE21;
+    width: 523px;
+    height: 356px;
+    float: right;
+    margin-top: -355px;
+    margin-right: 60px;
+    padding: 2%;
+    color: #006837;
+
+}
+
+.box1 {
+
+    width: 561px;
+    height: 321px;
+}
+
+.imgs {
+    margin: 13px;
+}
+
+.img1 {
+    float: right;
+}
+
+.img2 {
+    float: left;
+}
+
+.par2 {
+    margin-top: 30px;
+}
+
+.box2 {
+    width: 460px;
+    height: 321px;
+}
+
+p {
+
+    font-family: 'Segoe UI';
+    src: url('SegoeUI.woff2') format('woff2'),
+        url('SegoeUI.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+
+
+}
